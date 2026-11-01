@@ -1,2 +1,3 @@
 Print("Hallo Wereld !")
 print("Welkom in de IJssalon")
+print("Hier vind je de lekkerste ijsjes voor de warme zomer")
